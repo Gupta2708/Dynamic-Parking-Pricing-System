@@ -1,4 +1,4 @@
-# 🚗 Dynamic Parking Pricing System – Capstone Project
+# 🚗 Dynamic Parking Pricing System
 
 A real-time intelligent pricing engine for urban parking lots that dynamically adjusts prices based on demand, traffic conditions, and occupancy patterns using streaming data processing with the **Pathway** framework.
 
