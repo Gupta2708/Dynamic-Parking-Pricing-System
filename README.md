@@ -80,6 +80,18 @@ Built using **Pathway** for streaming technology and **Bokeh** for interactive v
 
 ---
 
+## 📈 Results & Performance
+
+### Model Performance Comparison
+
+| Model            | Average Price | Price Range     | Responsiveness | Business Value         |
+|------------------|----------------|------------------|----------------|-------------------------|
+| Baseline Linear  | $12.45         | $5.00 - $20.00   | Low            | Reference benchmark     |
+| Demand-Based     | $13.78         | $6.50 - $19.50   | High           | Intelligent pricing     |
+| Competitive      | $13.92         | $7.25 - $18.75   | Medium         | Market-aware            |
+
+---
+
 ## ✅ Key Project Outcomes
 
 ### Technical Achievements
